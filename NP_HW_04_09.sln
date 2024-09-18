@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_HW_04_09", "NP_HW_04_09.csproj", "{CBA1B8D9-B4F7-469A-A776-D7192F2EA63D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NP_HW_04_09", "NP_HW_04_09.csproj", "{CBA1B8D9-B4F7-469A-A776-D7192F2EA63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gutenberg_Shakespeare", "..\Gutenberg_Shakespeare\Gutenberg_Shakespeare.csproj", "{41CD5880-C978-44E1-B928-759190B4A725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gutenberg_PopularBooks", "..\Gutenberg_PopularBooks\Gutenberg_PopularBooks.csproj", "{E0D79612-DDF1-4778-935E-0CAE22C1DDD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{CBA1B8D9-B4F7-469A-A776-D7192F2EA63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBA1B8D9-B4F7-469A-A776-D7192F2EA63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBA1B8D9-B4F7-469A-A776-D7192F2EA63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CD5880-C978-44E1-B928-759190B4A725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CD5880-C978-44E1-B928-759190B4A725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CD5880-C978-44E1-B928-759190B4A725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CD5880-C978-44E1-B928-759190B4A725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D79612-DDF1-4778-935E-0CAE22C1DDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D79612-DDF1-4778-935E-0CAE22C1DDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D79612-DDF1-4778-935E-0CAE22C1DDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D79612-DDF1-4778-935E-0CAE22C1DDD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
